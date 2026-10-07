@@ -73,6 +73,6 @@ Junior Data Analyst with an accounting background and 3+ years in customer-facin
 
 💬 Let's Connect
 
-**[LinkedIn](https://linkedin.com/in/amira-elzawy)** | **[Email](mailto:Amira.elzawy@gmail.com)**
+**[LinkedIn](www.linkedin.com/in/amira-elzawy)** | **[Email](mailto:Amira.elzawy@gmail.com)**
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.

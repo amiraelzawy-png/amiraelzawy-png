@@ -46,7 +46,7 @@ Junior Data Analyst with an accounting background and 3+ years in customer-facin
 
 ## 🛠️ Featured Projects
 
-- **FeedGuard (Graduation Project):** Led a 4-member team to build a SQL Server star-schema warehouse and a Power BI dashboard analysing 10 years of Egypt's feed imports ($48B+). [🔗 Link](#)
+- **FeedGuard (Graduation Project):** Led a 4-member team to build a SQL Server star-schema warehouse and a Power BI dashboard analysing 10 years of Egypt's feed imports ($48B+). https://app.powerbi.com/groups/me/reports/f41162e5-c263-4437-9b8a-0b99b7e0bae6/eaa6dbf1e2b93be8c065?experience=power-bi
 - **Sales Performance Dashboard:** Power BI dashboard covering sales trends, regional performance and product-level KPIs using DAX and custom visuals. [🔗 Link](#)
 - **Customer Segmentation:** Cleaned a customer transactions dataset with SQL and segmented customers by purchasing behaviour in Tableau. [🔗 Link](#)
 - **Financial Data Visualisation:** Monthly trends and variance against targets using SQL, Excel and Power BI. [🔗 Link](#)

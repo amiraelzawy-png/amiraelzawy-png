@@ -70,12 +70,6 @@ Junior Data Analyst with an accounting background and 3+ years in customer-facin
   <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/output/github-snake.svg"/>
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=dark)
-
----
 
 💬 Let's Connect
 

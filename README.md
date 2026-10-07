@@ -1,69 +1,84 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2390EE90&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+I'm+Mustafa+Talaat+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;React.js+%26+Node.js+%26+Expressjs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=32&center=true&vCenter=true&width=700&height=50&lines=Hello+I'm+Amira+Said+Abdallah+%F0%9F%91%8B;Junior+Data+Analyst;Power+BI+%26+SQL+%26+Python+%26+Tableau)
 
+🌍 From: Cairo, Egypt
 
-🌍 From: Cairo, Egypt 
-
-💼 **Current Role:** Full Stack Developer 
+💼 **Current Role:** Junior Data Analyst | Data Analysis Trainee @ Digilians
 
 🎓 **Education:**
 
-Ahram Canadian University , Faculty of Computer Science
+Beni Suef University, Faculty of Commerce, Accounting (English Section), Class of 2024
 
-🎓 **Training:** 
+🎓 **Training & Certifications:**
 
-- Software Development Training @ ITI  
-- MERN Stack Training @ DEPI (Digital Egypt Pioneers Initiative)
+- Google Data Analytics Professional Certificate (Google / Coursera)
+- Data Analysis Training @ Digilians (Power BI, SQL, Looker, Tableau)
+- Artificial Intelligence Fundamentals @ Huawei ICT Academy
+- Python Programming Basics @ Huawei ICT Academy
+- Data Analysis @ Egyptian Ministry of Communications and Information Technology (In Progress)
+
+---
+
+## 👩‍💻 About Me
+
+Junior Data Analyst with an accounting background and 3+ years in customer-facing, data-driven roles across insurance and telecom, where accuracy and clear communication with non-technical people were part of the daily job. I turn raw data into dashboards and insights that support better decisions.
 
 ---
 
 ## 🚀 Technologies I Work With
 
-### 🔧 Backend Development:
-- ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white) Dynamic and interactive user interfaces.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) Scalable backend solutions.
-- ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Efficient API development.
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) Database design and management.
+### 📊 Data Analysis:
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) Data cleaning and analysis with pandas.
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) Data manipulation and exploration.
+- ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white) Reconciliation, formulas and reports.
 
-### ⚙️ DevOps & Tools:
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) Containerization and deployment.
-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) Cloud infrastructure & hosting.
+### 🗄️ Databases & Modelling:
+- ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) Querying, cleaning and star-schema data warehouse design.
+
+### 📈 Visualization & BI:
+- ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black) Interactive dashboards and DAX measures.
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) Data storytelling and visualization.
+- ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white) KPI dashboards for stakeholders.
+
+### ⚙️ Tools:
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Version control & collaboration.
 
-### 🎨 Frontend Development:
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) Strongly typed JS for scalable apps.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) Dynamic and interactive web components.
+---
 
-### 💡 Problem Solving:
-- ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white) Actively solving challenges to enhance algorithmic skills.
+## 🛠️ Featured Projects
+
+- **FeedGuard (Graduation Project):** Led a 4-member team to build a SQL Server star-schema warehouse and a Power BI dashboard analysing 10 years of Egypt's feed imports ($48B+). [🔗 Link](#)
+- **Sales Performance Dashboard:** Power BI dashboard covering sales trends, regional performance and product-level KPIs using DAX and custom visuals. [🔗 Link](#)
+- **Customer Segmentation:** Cleaned a customer transactions dataset with SQL and segmented customers by purchasing behaviour in Tableau. [🔗 Link](#)
+- **Financial Data Visualisation:** Monthly trends and variance against targets using SQL, Excel and Power BI. [🔗 Link](#)
+- **Business KPI Dashboard:** Looker dashboard consolidating revenue, churn and operational KPIs into a single stakeholder view. [🔗 Link](#)
+
+*Each project reflects my ability to turn raw data into clear insights and better decisions.*
 
 ---
 
-## 🛠️ What I'm Working On
+## 🌱 Currently
 
-### ✨ Featured Projects:
-- **E-Commerce Platform:** Full Stack MERN app with Dockerized deployment.
-- **Task Management App:** Built with React.js, Node.js & AWS for scalability.
-- **API Integrations:** RESTful APIs using Express.js & MongoDB for efficient data management.
-
-*Each project reflects my technical expertise and problem-solving skills to build scalable, maintainable, and user-friendly applications.*
+- 📚 Training in Data Analysis at Digilians
+- 🏦 Studying Credit in Banking @ Egyptian Banking Institute
+- 🗣️ Improving my Business English (B2)
 
 ---
-### 🐍 GitHub Snake
+
+## 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/output/github-snake.svg"/>
 </p>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafa-Talaat98&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Talaat98&layout=compact&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=dark)
 
 ---
 
 💬 Let's Connect
 
-**[LinkedIn](https://www.linkedin.com/in/mostafa-talaat-214878162)**  
-
+**[LinkedIn](https://linkedin.com/in/amira-elzawy)** | **[Email](mailto:Amira.elzawy@gmail.com)**
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to discuss collaboration or share ideas.
